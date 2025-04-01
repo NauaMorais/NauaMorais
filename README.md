@@ -1,4 +1,4 @@
-## Hi there 👋 Sou Nauã Morais Desenvolvedor em constante aprendizado.
+## Iai 👋 Sou Nauã Morais Desenvolvedor em constante aprendizado.
 
 <div>
   <a href="https://github.com/NauaMorais">
